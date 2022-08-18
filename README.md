@@ -11,7 +11,7 @@ This Project is for discussion of developing a terminal command for finding all 
 </details>
 
 <details>
-	### <summary>Design</summary>
+	<summary>Design</summary>
 
 </details>
 
